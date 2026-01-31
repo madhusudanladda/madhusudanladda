@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student | Software & IoT Enthusiast</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/madhusudan-ladda-b2232a1bb](https://www.linkedin.com/in/madhusudan-ladda-b2232a1bb/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/madhusudan-ladda-b2232a1bb/](https://www.linkedin.com/in/madhusudan-ladda-b2232a1bb/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="madhusudanladda08@gmail.com">
