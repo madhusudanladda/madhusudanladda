@@ -41,7 +41,6 @@
 - 🌿 **GOBARdhan** — Smart IoT-based biogas plant monitoring system
 - 📡 **ESP32 LoRa Monitoring Node** — Wireless sensor telemetry using SX1278
 - 🌡️ **ESP32 Environmental Monitor** — Temperature & humidity monitoring with Wi-Fi
-- 🚜 **AI-Based Smart Soil Monitoring** — ESP32 + 7-in-1 sensor + ML + Firebase
 
 ---
 
